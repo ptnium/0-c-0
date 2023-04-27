@@ -1,3 +1,16 @@
+
+<h1 align="center">Hi 👋, I'm 0-c-0</h1>
+
+
+
+-------------------
+&emsp;
+<h3 align="left">Hi 👋, I'm 0-c-0, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+&emsp;
+
+-------------------
+&emsp;
+
 - 👋 Hi, I’m @0-c-0
 - 👀 I’m interested in AI,Automation and Robotics 
 - 🌱 I’m currently learning Js,Python
